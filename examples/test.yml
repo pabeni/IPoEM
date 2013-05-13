@@ -1,0 +1,19 @@
+pop:
+  server: test.pop.it
+  port: 110
+  ssl: no
+  username: test
+  password: pwd
+
+smtp:
+  server: test.pop.it
+  port: 110
+  ssl: no
+  username: test
+  password: pwd
+
+peerEmail: test@test.com
+
+tunnel:
+  localaddress: 192.168.0.1
+  remoteaddress: 192.168.0.2
